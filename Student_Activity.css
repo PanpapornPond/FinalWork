@@ -1,0 +1,4 @@
+body {background-color: rgb(159, 174, 189); text-align: center;}
+h1 {font-size: 31px ;color:  rgb(106, 238, 165);}
+h2 {font-size: 28px ;color:  rgb(125, 235, 231);}
+figure {display: inline-table ; width: 50%; float: center; margin: 0%; text-align: center; padding: 0;}
